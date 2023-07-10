@@ -29,3 +29,4 @@
 [![MYSQL](https://img.shields.io/badge/MySQL-3590CC?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/amandexspeed)
 
 ![Snake animation](https://github.com/amandexspeed/amandexspeed/blob/output/github-contribution-grid-snake.svg)
+
