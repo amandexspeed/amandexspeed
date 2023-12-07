@@ -22,7 +22,7 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/amandexspeed)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/amandexspeed)
 [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/amandexspeed)
-<!--[![C++](https://img.shields.io/badge/Cpp-2B9FFA?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/amandexspeed)-->
+[![C++](https://img.shields.io/badge/Cpp-2B9FFA?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/amandexspeed)
 <!--[![Php](https://img.shields.io/badge/php-A461F8?style=for-the-badge&logo=php&logoColor=black)](https://github.com/amandexspeed)-->
 
 ## DATABASES
