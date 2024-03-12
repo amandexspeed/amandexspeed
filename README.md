@@ -16,41 +16,25 @@
 
 ## LANGUAGES & FRAMEWORKS
 [![C](https://img.shields.io/badge/C-346AD6?style=for-the-badge&logo=c&logoColor=white)](https://github.com/amandexspeed)
+[![C++](https://img.shields.io/badge/Cpp-2B9FFA?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/amandexspeed)
 [![C#](https://img.shields.io/badge/C%23-8C3DD1?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/amandexspeed)
 [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/amandexspeed)
 [![Python](https://img.shields.io/badge/python-F0E91F?style=for-the-badge&logo=python&logoColor=black)](https://github.com/amandexspeed)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/amandexspeed)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/amandexspeed)
 [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/amandexspeed)
-[![C++](https://img.shields.io/badge/Cpp-2B9FFA?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/amandexspeed)
+[![ASP.NET](https://img.shields.io/badge/ASPNET-512BD4?style=for-the-badge&logo=asp&logoColor=white)](https://github.com/amandexspeed)
+
 <!--[![Php](https://img.shields.io/badge/php-A461F8?style=for-the-badge&logo=php&logoColor=black)](https://github.com/amandexspeed)-->
 
 ## DATABASES
 [![MYSQL](https://img.shields.io/badge/MySQL-3590CC?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/amandexspeed)
+[![SQLSERVER](https://img.shields.io/badge/sqlserver-262D38?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white)](https://github.com/amandexspeed)
 
-<!--![Snake animation](https://github.com/amandexspeed/amandexspeed/blob/output/github-contribution-grid-snake.svg)-->
+## TOOLS
+[![GIT](https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=E02F26)](https://github.com/amandexspeed)
+[![VISUALSTUDIO](https://img.shields.io/badge/vs-9863D1?style=for-the-badge&logo=visualstudio&logoColor=white)](https://github.com/amandexspeed)
+[![VSCODE](https://img.shields.io/badge/vscode-3BA0E3?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.com/amandexspeed)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/amandexspeed)
 
-<!--   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-   - uses: Platane/snk@v3
-  with:
-    github_user_name: ${{ github.repository_owner }}
-
-    # list of files to generate.
-    # one file per line. Each output can be customized with options as query string.
-    #
-    #  supported options:
-    #  - palette:     A preset of color, one of [github, github-dark, github-light]
-    # - color_snake:red
-    #  - color_dots:  Coma separated list of dots color.
-    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
-    #                 Exactly 5 colors are expected.
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
-  env:
-    # a github token is required to fetch the contribution calendar from github API
-    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
 ![snake gif](https://github.com/amandexspeed/amandexspeed/blob/output/github-snake-dark.svg)
