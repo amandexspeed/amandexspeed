@@ -42,7 +42,7 @@
     #
     #  supported options:
     #  - palette:     A preset of color, one of [github, github-dark, github-light]
-    color_snake:red
+    #- color_snake:red
     #  - color_dots:  Coma separated list of dots color.
     #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
     #                 Exactly 5 colors are expected.
