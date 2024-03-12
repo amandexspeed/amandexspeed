@@ -53,4 +53,4 @@
     # a github token is required to fetch the contribution calendar from github API
     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 -->
-![snake gif](https://github.com/amandexspeed/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/amandexspeed/amandexspeed/blob/output/github-contribution-grid-snake.svg)
