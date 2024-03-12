@@ -30,7 +30,7 @@
 
 <!--![Snake animation](https://github.com/amandexspeed/amandexspeed/blob/output/github-contribution-grid-snake.svg)-->
 
-   ![Snake animation](https://github.com/amandexspeed/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
    - uses: Platane/snk@v3
   with:
     # github user name to read the contribution graph from (**required**)
