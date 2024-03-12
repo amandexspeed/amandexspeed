@@ -30,7 +30,7 @@
 
 <!--![Snake animation](https://github.com/amandexspeed/amandexspeed/blob/output/github-contribution-grid-snake.svg)-->
 
-   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+<!--   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
    - uses: Platane/snk@v3
   with:
     github_user_name: ${{ github.repository_owner }}
@@ -52,5 +52,5 @@
   env:
     # a github token is required to fetch the contribution calendar from github API
     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+-->
 ![snake gif](https://github.com/amandexspeed/rafaballerini/blob/output/github-contribution-grid-snake.svg)
