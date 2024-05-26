@@ -14,6 +14,9 @@
 | ------------- | ------------- |
 <div style="display: inline_block"><br>  
 
+![](http://ForTheBadge.com/images/badges/built-by-developers.svg)
+![](http://ForTheBadge.com/images/badges/built-with-love.svg)
+
 ## LANGUAGES & FRAMEWORKS
 [![C](https://img.shields.io/badge/C-346AD6?style=for-the-badge&logo=c&logoColor=white)](https://github.com/amandexspeed)
 [![C++](https://img.shields.io/badge/Cpp-2B9FFA?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/amandexspeed)
@@ -35,6 +38,20 @@
 [![GIT](https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=E02F26)](https://github.com/amandexspeed)
 [![VISUALSTUDIO](https://img.shields.io/badge/vs-9863D1?style=for-the-badge&logo=visualstudio&logoColor=white)](https://github.com/amandexspeed)
 [![VSCODE](https://img.shields.io/badge/vscode-3BA0E3?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.com/amandexspeed)
+[![ECLIPSE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://github.com/amandexspeed)
+[![NOTEPAD++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)](https://github.com/amandexspeed)
+[![OVERLEAF](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)](https://github.com/amandexspeed)
+[![TRELLO](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://github.com/amandexspeed)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/amandexspeed)
+
+
+
+## OTHER THINGS THAT I'M INTERESTED
+[![DUOLINGO](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/Amandexspe)
+![UDEMY](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
+![MDN WEB DOCS](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
+[![STEAM](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199172583949/)
+[![XBOX](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)](https://www.xbox.com/pt-BR/play/user/mandy%20speedex)
+
 
 ![snake gif](https://github.com/amandexspeed/amandexspeed/blob/output/github-snake-dark.svg)
